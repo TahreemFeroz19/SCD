@@ -25,4 +25,4 @@ public int factorial(int num) {
 	return fact;
 }
 }
-//updating lab11.java
+//now updating lab11.java
